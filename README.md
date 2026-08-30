@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T113
 ### Team Details
-#### **Team Name** Algorithm Avengers <br/>
+#### **Team Name**  Algorithm Avengers <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
